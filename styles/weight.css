@@ -1,0 +1,16 @@
+body {text-align: center; padding: 50px 100px 0; background-color: #C3E2C2;}
+.bg {border: 15px dotted #C3E2C2; padding: 70px 10px; background-color: #eee}
+h1 {font-size: 2rem; font-weight: 800; margin-bottom: 20px;}
+p { margin-bottom: 50px; font-weight: 500;}
+ul {width: 100%; margin: 0 auto;}
+ul li {margin-bottom: 20px; font-size: 1.5rem;}
+ul li input {
+    border-radius: 30px; padding: 15px 20px; font-size: 1.2rem; background-color: #fff;
+    border: 2px solid #d4d4d4; display: inline-block;
+    width:300px; margin: 0 30px; text-align: center;
+}
+ul li #goals {border-radius: 0; width: 600px; border: none; text-align: center; margin: 50px 0 20px 0; font-size: 1.5rem; line-height: 1.7; padding: 10px 20px;}
+button {
+    padding: 15px 20px; font-size: 1.5rem; border-radius: 30px; background-color: #86A789; color: #fff; width: 300px; margin-right: 10px; font-weight: 500;
+}
+#reset {margin-right: 0;}
